@@ -28,7 +28,7 @@ I build robust backend systems with **Java & Spring Boot** and craft responsive,
 
 ## 📊 GitHub stats
 
-![Jagannathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Jagannathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balajijagan2000&show_icons=true&theme=default&hide_border=true)
 
 ---
 
